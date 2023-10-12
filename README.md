@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Prerequisites
@@ -131,3 +132,7 @@ The result is:
 
 
 
+=======
+# products-customer-suppliers
+APIs for grocery store with input Validations 
+>>>>>>> 187279f62405a8916c71cea2dcf1c799c851ea30
